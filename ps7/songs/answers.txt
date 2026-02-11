@@ -1,0 +1,5 @@
+If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+By the beats of the songs they played for example Calm, analytical, and introspective are the traits that describe a green aura.
+
+Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+Showing the type of music that they most listened to.
