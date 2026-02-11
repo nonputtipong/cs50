@@ -1,0 +1,1 @@
+SELECT english_title AS "Name", artist FROM views WHERE brightness > 0.7 ORDER BY entropy LIMIT 2;

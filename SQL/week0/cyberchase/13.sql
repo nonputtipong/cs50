@@ -1,0 +1,1 @@
+SELECT season, title, production_code FROM episodes WHERE topic LIKE '2D and 3D Geometry' OR air_date BETWEEN '2005-01-01' AND '2006-12-31';
